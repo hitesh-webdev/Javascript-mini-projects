@@ -2,10 +2,10 @@
 A simple popup (modal) UI built using HTML, CSS, and JavaScript.
 
 ## Features
-Button-triggered popup
-Open and close functionality
-Smooth animation using CSS transform
-Clean and simple UI
+-Button-triggered popup
+-Open and close functionality
+-Smooth animation using CSS transform
+-Clean and simple UI
 
 ## Tech Stack
 HTML
